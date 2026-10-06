@@ -24,6 +24,7 @@
 | **Chapter 9** | **Priority Queues** | ทบทวนโครงสร้างข้อมูล Priority Queue, Heap และการทำงานของคิวตามลำดับความสำคัญ | [เข้าสู่บทเรียน Ch 9](https://priority-queue-tau.vercel.app/) |
 | **Chapter 10** | **Hashing** | เรียนรู้ Hash Function, การแก้ปัญหาการชนกัน (Collision Resolution) และการจัดการ Hash Table | [เข้าสู่บทเรียน Ch 10](https://hashing-eta-two.vercel.app/) |
 | **Chapter 11** | **Graph** | ทำความเข้าใจ Graph Representation, DFS, BFS, Minimum Spanning Tree (Prim, Kruskal) และ Shortest Path (Dijkstra) | [เข้าสู่บทเรียน Ch 11](https://graph-brown-psi.vercel.app/) |
+| **Chapter 12** | **Sorting Algorithms** | เรียนรู้เทคนิคการจัดเรียงข้อมูลทั้ง 7 รูปแบบ: Selection, Bubble, Insertion, Shell, Merge, Quick และ Heap Sort พร้อมระบบจำลองแบบ Interactive | [เข้าสู่บทเรียน Ch 12](https://sorting-inky.vercel.app/) |
 
 ---
 
